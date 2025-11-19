@@ -1,0 +1,6 @@
+{
+  "version": "8.0.1",
+  "firmware": "https://amardeepv.github.io/PlantMate-OTA/firmware.bin",
+  "signature": "https://amardeepv.github.io/PlantMate-OTA/firmware.bin.sig.b64",
+  "build_time": "2025-11-19T14:24:01Z"
+}
