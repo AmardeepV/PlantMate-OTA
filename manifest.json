@@ -2,5 +2,5 @@
   "version": "10.2.0",
   "firmware": "https://amardeepv.github.io/PlantMate-OTA/firmware.bin",
   "signature": "https://amardeepv.github.io/PlantMate-OTA/firmware.bin.sig.b64",
-  "build_time": "2025-11-23T14:51:11Z"
+  "build_time": "2025-11-23T14:54:15Z"
 }
